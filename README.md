@@ -1,6 +1,7 @@
 # DSA-assignment
 
 ASIGNMENT 1
+
 1/
 def mergeSort(arr, low, high): 
  if low < high: 
@@ -61,6 +62,7 @@ print(insertionSort(arr))
 
 
 ASSIGNMENT 2
+
 1/
 def binary_search(arr, target): 
  start = 0 
